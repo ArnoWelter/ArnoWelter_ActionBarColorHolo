@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ListView y ActionBar</string>
+    <string name="anyadir">Añadir</string>
+    <string name="restablecer">Restablecer</string>
+    <string name="acercade">Acerca de</string>
+    <string name="textoAcerdaDe">En este ejercicio se vera como combinar listview y arrayadapter.</string>
+</resources>

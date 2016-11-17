@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ListView y ActionBar</string>
+    <string name="acercade">About</string>
+    <string name="anyadir">Add</string>
+    <string name="restablecer">Restore</string>
+    <string name="textoAcerdaDe">In this exercise we are going to see how to combine listview and arrayadapter.</string>
+</resources>
